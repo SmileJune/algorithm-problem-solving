@@ -1,8 +1,8 @@
-package iljun;
+package iljun.leetcode;
 
 import java.util.Arrays;
 
-public class Leet_2500 {
+public class Q_2500 {
 
     public static void main(String[] args) {
         System.out.println(deleteGreatestValue(new int[][]{{1, 2, 4}, {3, 3, 1}}));
